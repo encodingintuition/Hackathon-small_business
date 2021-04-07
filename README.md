@@ -15,7 +15,7 @@ Hidden Gem is a listing site dedicated to small business Bed and Breakfasts. In 
 # Contents:  
 - [API](#GeoSpatial-API)  
     - Filters locations based on proximity to a binding venue using GIS data.
-    - geo_sort-key_bnb.py
+    - */code/geo_sort-key_bnb.py*
 - [Questionaire Analytics](#Questionaire-Analytics)
     - Descriptive Analytics from the questionnaire, including NLP analysis, word segmentation and sentiment analyzer.
     <br>
@@ -42,6 +42,8 @@ Hidden Gem is a listing site dedicated to small business Bed and Breakfasts. In 
 
 # Questionaire Analytics
 <hr/>
+
+#### See notebook: [prep_survy.ipynb](https://github.com/encodingintuition/Hackathon-small_business/blob/main/code/prep_survy.ipynb)
 
 
 ```python
